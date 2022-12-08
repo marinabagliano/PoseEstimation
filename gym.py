@@ -1,5 +1,7 @@
 # IA pose estimation with python/mediaPipe
 # !pip install mediapipe opencv-python
+# Credits: nicknochnack
+
      
 # importando dependencias
 import cv2 #importando openCv
